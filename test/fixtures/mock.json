@@ -1,0 +1,546 @@
+{
+ "배경훈 부총리 \"美 AI 투자 잠시 ": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "범위 확대",
+     "section_idx": 4,
+     "script_quote": "대규모 인프라와 핵심 자원을 적극 지원할 계획입니다",
+     "source_quote": "핵심 자원을 적극 지원하겠다고 밝혔다",
+     "explanation": "mock: v1처럼 엉뚱한 섹션"
+    }
+   ],
+   "checks": [
+    {
+     "kind": "숫자",
+     "section_idx": 3,
+     "script_claim": "정부 AI 예산 9조 4211억",
+     "source_basis": "과기정통부 AI 분야 예산 9조4211억원",
+     "result": "불일치"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "\"그렇게 많이 줘요?\"…'200억 기": {
+  "gate": {
+   "genre": "정보·해설",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "T1은 BLG에 졌지만 '페이커'는 ": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "'젠슨 황 연인' 나이도 이력도 확인": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "\"축구 선수들이 케인 외면…역대 최초": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "사실 오류",
+     "section_idx": 2,
+     "script_quote": "케인은 꼴찌를 기록",
+     "source_quote": "꼴찌",
+     "explanation": "mock: 지어낸 인용"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "위장 퇴사에 위장 미혼…부정청약 '3": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "사실 오류",
+     "section_idx": 0,
+     "script_quote": "입주 직전에 퇴사하는 선택을 했어요",
+     "source_quote": "입주자 모집 공고일 직전에 허위로 병원을 퇴사했다가",
+     "explanation": "mock: 시점 오류"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "허경환 조작 방송 의혹 제기…말도 안": {
+  "gate": {
+   "genre": "홍보",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "확실성 변화",
+     "section_idx": 2,
+     "script_quote": "코코는 약 100개의 한글 단어를 알고",
+     "source_quote": "약 100개의 한글 단어를 안다고 알려져",
+     "explanation": "mock"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "100년 전에도 쓰린 속 달래준 ‘콩": {
+  "gate": {
+   "genre": "정보·해설",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "\"싱글을 성장의 목표로\" 로아 8주년": {
+  "gate": {
+   "genre": "정보·해설",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "가족 장례식장에 초등학생들 참석여부 ": {
+  "gate": {
+   "genre": "경험·의견",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": []
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "iPhone Duo": {
+  "gate": {
+   "genre": "홍보",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "범위 확대",
+     "section_idx": 1,
+     "script_quote": "기존 스마트폰보다 훨씬 넓은 화면",
+     "source_quote": "",
+     "explanation": "mock: 지어낸 원문 인용 없음"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ },
+ "가상시 도서관, 24시간 무인": {
+  "gate": {
+   "genre": "보도",
+   "risk_signals": {
+    "health": false,
+    "finance": false,
+    "reason": "mock"
+   },
+   "findings": [
+    {
+     "type": "사실 오류",
+     "section_idx": 2,
+     "script_quote": "120석 모두 개방됩니다",
+     "source_quote": "좌석은 기존 120석 가운데 60석만 야간에 개방한다.",
+     "explanation": "mock: 야간 개방 좌석 수"
+    },
+    {
+     "type": "사실 오류",
+     "section_idx": 0,
+     "script_quote": "밤새 도서관에서 공부할 수 있게 됐어요",
+     "source_quote": "없는 문장",
+     "explanation": "mock: 지어낸 인용"
+    }
+   ]
+  },
+  "score": {
+   "scores": [
+    {
+     "item": "핵심 누락",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 흡인력",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "훅 회수",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "흐름",
+     "score": 3,
+     "reason": "mock"
+    },
+    {
+     "item": "글의 목적 보존",
+     "score": 3,
+     "reason": "mock"
+    }
+   ]
+  }
+ }
+}

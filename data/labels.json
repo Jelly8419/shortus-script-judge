@@ -1,0 +1,105 @@
+{
+  "s01": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "범위 확대: 과기정통부 AI 예산(정부 전체의 약 57%)을 정부 AI 예산으로 말함"
+    ],
+    "confidence": "높음",
+    "note": "처음 통과로 봤다가 s11과 같은 유형이라 보류로 변경",
+    "gate_sections": [
+      4
+    ]
+  },
+  "s02": {
+    "verdict": "통과",
+    "gate_reasons": [],
+    "confidence": "중간",
+    "note": "\"재개\"는 원문 \"다시 기부\"에 근거. 점수: 실용 정보(직접 청구, 5년 소멸) 누락 → 글의 목적 미보존",
+    "gate_sections": []
+  },
+  "s03": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "귀속 오류: 기자의 해석(압박에서 벗어나 후련)을 팬들의 반응으로 바꿈"
+    ],
+    "confidence": "높음",
+    "note": "포인트2 \"월즈\" 누락은 앞 섹션 문맥상 통과로 판단(경계 사례) → 판정 단위는 대본 전체",
+    "gate_sections": [
+      4
+    ]
+  },
+  "s04": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "입력 부족: 원문이 사이트 메뉴와 제목 한 줄뿐"
+    ],
+    "confidence": "높음",
+    "note": "대본 문제가 아니라 입력 문제로 분류",
+    "gate_sections": []
+  },
+  "s05": {
+    "verdict": "통과",
+    "gate_reasons": [],
+    "confidence": "높음",
+    "note": "숫자·해석 모두 원문과 일치. 좋은 대본 기준점",
+    "gate_sections": []
+  },
+  "s06": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "사실 오류: 모집 공고일 직전 → 입주 직전 (시점)"
+    ],
+    "confidence": "높음",
+    "note": "처음엔 서류상 퇴사는 맞다고 통과로 봤다가 시점 오류 확인 후 변경. 훅 회수 실패(소득 기준 설명 없음)는 점수 항목",
+    "gate_sections": [
+      1
+    ]
+  },
+  "s07": {
+    "verdict": "통과",
+    "gate_reasons": [],
+    "confidence": "중간",
+    "note": "\"안다고 알려져\" → \"알고\" 확실성 변화 있으나 건강·금융 위험 신호가 없어 진단으로만 처리 (장르별 차등 결정의 계기)",
+    "gate_sections": []
+  },
+  "s08": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "확실성 변화: \"~로 알려졌다\"를 단정으로 바꿈 (건강 효능)"
+    ],
+    "confidence": "높음",
+    "note": "",
+    "gate_sections": [
+      4
+    ]
+  },
+  "s09": {
+    "verdict": "통과",
+    "gate_reasons": [],
+    "confidence": "높음",
+    "note": "점수: 쿠폰·6회 제한 해제 등 핵심 정보 누락(선택 품질), 논란 속 해명 방송 맥락 누락",
+    "gate_sections": []
+  },
+  "s10": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "귀속 오류: 친구 남편의 발언을 친구 발언으로 (친구가 원문에 따로 등장)"
+    ],
+    "confidence": "높음",
+    "note": "글의 목적(독자 의견 질문) 미보존은 점수 항목",
+    "gate_sections": [
+      3
+    ]
+  },
+  "s11": {
+    "verdict": "보류",
+    "gate_reasons": [
+      "범위 확대: 그 어떤 iPhone보다 → 기존 스마트폰보다"
+    ],
+    "confidence": "높음",
+    "note": "",
+    "gate_sections": [
+      2
+    ]
+  }
+}
